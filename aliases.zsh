@@ -7,3 +7,5 @@ alias cls='clear'
 alias mvn_update='mvn -N versions:update-child-modules;mvn versions:commit'
 alias rake='noglob rake'
 
+# new feature here
+
